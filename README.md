@@ -1,6 +1,8 @@
 # BiteGrADS
 
-For reading GrADS format data.
+[![Documentation Status](https://readthedocs.org/projects/bitegrads/badge/?version=latest)](https://bitegrads.readthedocs.io/en/latest/?badge=latest)
+
+For reading GrADS format data. Read the docs [here](https://bitegrads.readthedocs.io/).
 
 ## Install
 
