@@ -132,4 +132,4 @@ dmypy.json
 .idea
 
 # private
-__test
+test_data
